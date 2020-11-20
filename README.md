@@ -8,7 +8,7 @@ products is programmed in order to meet some orders. The distinction of material
 
 1) Raw materials: Purchased from external suppliers. <br />
 2) Intermediate products: Produced from other intermediates and/or raw materials. They are used in the production of other products (intermediate or final). <br />
-3) Τελικά προϊόντα (final products): Προορίζονται προς πώληση και όχι για παραγωγή άλλων. <br />
+3) Final products: Intended for sale and not for the production of others. <br />
 
 Each product (intermediate or final) has a certain composition corresponding to the types of raw materials and/or
 intermediate products required for its manufacture. The composition also includes the
