@@ -23,24 +23,24 @@ in the number of lines that follow. The file
 must have information on pending final product orders.
 
 Example form:
-<number of kinds of materials>
-<code><name>< stock quantity> <number of ingredients> <code 1> <quantity 1> ...
+<number of kinds of materials> <br />
+<code><name>< stock quantity> <number of ingredients> <code 1> <quantity 1> ... <br />
 
-<Order count>
+<Order count> <br />
 
 
 An example input file
-8
-1 Glass 3 0
-2 Tire 5 0
-3 Rim 3 0
-4 Piston 3 0
-5 Belt 2 0
-6 Wheel 10 2 2 1 3 1
-7 Engine 2 2 4 4 5 2
-8 Car 5 3 6 4 7 1 1 6
-1
-8 10
+8 <br />
+1 Glass 3 0 <br />
+2 Tire 5 0 <br />
+3 Rim 3 0 <br />
+4 Piston 3 0 <br />
+5 Belt 2 0 <br />
+6 Wheel 10 2 2 1 3 1 <br />
+7 Engine 2 2 4 4 5 2 <br />
+8 Car 5 3 6 4 7 1 1 6 <br />
+1 <br />
+8 10 <br />
 
 The user can obtain an output file information about all kinds of
 (number of units available and number of units required to cover orders).
