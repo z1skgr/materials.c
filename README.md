@@ -25,7 +25,7 @@ must have information on pending final product orders.
 Example form:
 'number of kinds of materials' <br />
 'code' 'name' 'stock quantity' 'number of ingredients' 'code 1' 'quantity 1' ... <br />
-
+... <br />
 'Order count' <br />
 
 
