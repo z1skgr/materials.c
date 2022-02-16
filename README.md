@@ -20,13 +20,13 @@ follows the following rules:
 
 ```mermaid
 graph TD;
-    A-->|1|B;
-    A-->|2|C;
-    A-->|3|D;
-    C-->E;
-    C-->F;
-    D-->G;
-    D-->H;
+   |1| A-->|1|B;
+   |1| A-->|2|C;
+   |1| A-->|3|D;
+   |1| C-->|4|E;
+   |1| C-->|5|F;
+   |1| D-->|6|G;
+   |1| D-->|7|H;
 ```
 
 
