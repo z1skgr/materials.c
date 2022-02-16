@@ -18,6 +18,17 @@ follows the following rules:
 - Intermediate products[^1]
 - Final products
 
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    A-->D;
+    C-->E;
+    C-->F;
+    D-->G;
+    D-->H;
+```
+
 
 
 ## Screenshots
