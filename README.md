@@ -10,9 +10,7 @@
 
 ## General Information
 Α program that will manage material information. Costs for the supply of raw materials will be calculated and the production of intermediates and
-final products in order to satisfy some orders.
-The distinction of materials into categories
-follows the following rules:
+final products in order to satisfy some orders. he distinction of materials into categories follows the following rules:
 
 - Raw materials
 - Intermediate products[^1]
@@ -28,6 +26,8 @@ graph TD;
     D-->|3|G[6-G];
     D-->|8|H[7-H];
 ```
+The program reads an input file containing information about each type of material. The file
+will also have information on pending final product orders.
 
 The output file is formatted as follows
 
