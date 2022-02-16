@@ -31,6 +31,8 @@ graph TD;
 
 
 
+
+
 ## Screenshots
 
 ## Room for Improvement
@@ -40,7 +42,19 @@ C Integrated Development Environment (IDE)
 
 ## Setup
 Basic project for language learning. <br />
-External text input 
+External text input with two parts
+- The first part describes the types of materials 
+- The second part the pending orders. 
+
+````
+```
+<Πλήθος ειδών υλικών>
+<Κωδικός> <Όνομα> <Ποσότητα αποθήκης> <Πλήθος συστατικών> <Κωδικός1> <ποσότητα1>...
+```
+````
+
+<Πλήθος παραγγελιών>
+  ```
 ## Acknowledgements
 - This project was one of my very first project when i was learning C.
 - This project was created for the requirements of the lesson Introduction to Computers.
