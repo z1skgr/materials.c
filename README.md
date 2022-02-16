@@ -1,6 +1,5 @@
-# Mastermind
-> A simple game, variation of the well-known Mastermind. 
-
+# Material information management
+> A simple material information management program.
 ## Table of contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
