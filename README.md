@@ -20,7 +20,7 @@ follows the following rules:
 
 ```mermaid
 graph TD;
-    A[Christmas]-->|1|B;
+    A[1]-->|1|B;
     A-->|2|C;
     A-->|3|D;
     C-->|4|E;
