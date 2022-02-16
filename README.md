@@ -61,7 +61,7 @@ External text input with two parts
 ```
 ````
 
-Τhen we give an example of an input file.
+Τhen we give an example of an input file. <br />
 https://github.com/z1skgr/Managing-Materials/issues/1#issue-1140284274
 
 ## Acknowledgements
