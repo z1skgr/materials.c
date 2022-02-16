@@ -52,7 +52,6 @@ Number of material types: <Number>
 
 ## Screenshots
 
-## Room for Improvement
 
 ## Technologies Used
 C Integrated Development Environment (IDE)
@@ -63,10 +62,10 @@ External text input with two parts
 - The first part describes the types of materials 
 - The second part the pending orders. 
 
-
-
 Τhen we give an example of an input file. <br />
 https://github.com/z1skgr/Managing-Materials/issues/1#issue-1140284274
+
+
 
 ## Acknowledgements
 - This project was one of my very first project for learning C.
