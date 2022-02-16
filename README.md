@@ -29,7 +29,14 @@ graph TD;
     D-->|8|H[7-H];
 ```
 
+The output file is formatted as follows
 
+````
+```
+Number of material types: <Number>
+<Code>/<Name> - <Units number> units in stock - <Units number> units needed.
+```
+````
 
 
 
