@@ -20,9 +20,9 @@ follows the following rules:
 
 ```mermaid
 graph TD;
-    A-->B;
-    A-->C;
-    A-->D;
+    A-->|1|B;
+    A-->|2|C;
+    A-->|3|D;
     C-->E;
     C-->F;
     D-->G;
@@ -55,9 +55,10 @@ External text input with two parts
 ````
 
 Τhen we give an example of an input file.
+https://github.com/z1skgr/Managing-Materials/issues/1#issue-1140284274
 
 ## Acknowledgements
-- This project was one of my very first project when i was learning C.
+- This project was one of my very first project for learning C.
 - This project was created for the requirements of the lesson Introduction to Computers.
 
 [^1]: Intermediate products can be an intermediate composition..
