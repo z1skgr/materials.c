@@ -48,13 +48,14 @@ External text input with two parts
 
 ````
 ```
-<Πλήθος ειδών υλικών>
-<Κωδικός> <Όνομα> <Ποσότητα αποθήκης> <Πλήθος συστατικών> <Κωδικός1> <ποσότητα1>...
+<Materials count>
+<Code> <Material Name> <Quantity> <Number of Ingredients> <Code1> <Quantity1>...
+<Code> <Units requested>
 ```
 ````
 
-<Πλήθος παραγγελιών>
-  ```
+Τhen we give an example of an input file.
+
 ## Acknowledgements
 - This project was one of my very first project when i was learning C.
 - This project was created for the requirements of the lesson Introduction to Computers.
