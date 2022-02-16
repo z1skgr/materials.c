@@ -29,6 +29,16 @@ graph TD;
 The program reads an input file containing information about each type of material. The file
 will also have information on pending final product orders.
 
+
+The INPUT file is formatted as follows
+````
+```
+<Materials count>
+<Code> <Material Name> <Quantity> <Number of Ingredients> <Code1> <Quantity1>...
+<Code> <Units requested>
+```
+````
+
 The output file is formatted as follows
 
 ````
@@ -53,13 +63,7 @@ External text input with two parts
 - The first part describes the types of materials 
 - The second part the pending orders. 
 
-````
-```
-<Materials count>
-<Code> <Material Name> <Quantity> <Number of Ingredients> <Code1> <Quantity1>...
-<Code> <Units requested>
-```
-````
+
 
 Τhen we give an example of an input file. <br />
 https://github.com/z1skgr/Managing-Materials/issues/1#issue-1140284274
