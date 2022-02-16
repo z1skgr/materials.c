@@ -26,7 +26,7 @@ graph TD;
     D-->|3|G[6-G];
     D-->|8|H[7-H];
 ```
-The program reads an input file containing information about each type of material. The file
+The program reads an input file containing information about each type of material that assembles the final product. The file
 will also have information on pending final product orders.
 
 
