@@ -30,7 +30,7 @@ The program reads an input file containing information about each type of materi
 will also have information on pending final product orders.
 
 
-The INPUT file is formatted as follows
+The input file is formatted as follows
 ````
 ```
 <Materials count>
@@ -71,4 +71,4 @@ https://github.com/z1skgr/Managing-Materials/issues/1#issue-1140284274
 - This project was one of my very first project for learning C.
 - This project was created for the requirements of the lesson Introduction to Computers.
 
-[^1]: Intermediate products can be an intermediate composition..
+[^1]: Intermediate products can be an intermediate composition.
