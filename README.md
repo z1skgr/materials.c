@@ -3,8 +3,6 @@
 ## Table of contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Screenshots](#screenshots)
-* [Room for Improvement](#room-for-improvement)
 * [Setup](#setup)
 * [Acknowledgements](#acknowledgements)
 
