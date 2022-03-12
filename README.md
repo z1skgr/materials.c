@@ -1,4 +1,4 @@
-# Material information management
+# Info-mngmnt
 > A simple material information management program.
 ## Table of contents
 * [General Info](#general-information)
