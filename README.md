@@ -48,7 +48,6 @@ Number of material types: <Number>
 
 
 
-## Screenshots
 
 
 ## Technologies Used
